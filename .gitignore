@@ -1,0 +1,8 @@
+.DS_Store
+.terraform
+**/*.tfvars
+**/*.exe
+errored.tfstate
+**/terraform.tfstate
+**/.terraform/
+**/*.terraform.lock.hcl
